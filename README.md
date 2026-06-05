@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./public/logo.png" alt="IdeaSpark Logo" width="80" height="80" />
-
 # IdeaSpark
 
 ### Validate Your Innovation Ideas
@@ -119,7 +117,6 @@ IdeaSpark is a web-based platform designed to foster innovation and entrepreneur
 | Technology | Version | Purpose |
 |---|---|---|
 | Next.js | 16.2.6 | React framework with SSR |
-| React | 19.2.4 | UI library |
 | TailwindCSS | 4 | Utility-first CSS |
 | Framer Motion | 12.38.0 | Animations |
 | React Hook Form | 7.76.0 | Form state management |
@@ -166,18 +163,6 @@ IdeaSpark is a web-based platform designed to foster innovation and entrepreneur
 
 ---
 
-## 🌐 Deployment
-
-The application is deployed on **Vercel**. It can also be hosted on any Node.js-compatible platform:
-
-- Heroku
-- Railway
-- Netlify
-- AWS
-- DigitalOcean
-
----
-
 ## 💡 Future Enhancements
 
 - [ ] Notifications system
@@ -196,10 +181,6 @@ The application is deployed on **Vercel**. It can also be hosted on any Node.js-
 ## 🐛 Bug Reports & Feature Requests
 
 Please open an issue on the GitHub repository for any bugs or feature suggestions.
-
-## 📧 Contact
-
-For support, email us at **support@ideaspark.com** or visit the [live site](https://idea-spark-zeta-wine.vercel.app).
 
 ---
 
